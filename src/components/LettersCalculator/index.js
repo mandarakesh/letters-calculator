@@ -42,7 +42,7 @@ class LettersCalculator extends Component {
 
         <img
           className="image2"
-          alt="letters calculator"
+          alt="calculator image"
           src="https://assets.ccbp.in/frontend/react-js/stop-watch-with-calculator-img.png"
         />
       </div>
